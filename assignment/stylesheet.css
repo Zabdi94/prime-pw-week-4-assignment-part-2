@@ -1,0 +1,23 @@
+header {
+    background-color: skyblue;
+}
+
+.info {
+      background-color: mediumslateblue;
+
+}
+
+.car {
+margin: 0 auto;
+border-width: 25px;
+border: 7px solid skyblue;
+max-width: max-content;
+padding: 20 px;
+
+
+
+}
+body { 
+text-align: center;
+
+}
