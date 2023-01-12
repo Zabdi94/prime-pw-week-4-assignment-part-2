@@ -2,7 +2,7 @@ header {
     background-color: skyblue;
 }
 
-.info {
+h2 {
       background-color: mediumslateblue;
 
 }
@@ -20,4 +20,9 @@ padding: 20 px;
 body { 
 text-align: center;
 
+}
+
+
+h3 {
+    background-color: mediumvioletred;
 }
